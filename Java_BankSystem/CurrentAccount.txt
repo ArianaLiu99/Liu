@@ -1,0 +1,6 @@
+
+public class CurrentAccount extends Account{
+	public CurrentAccount(String name,String addr,String ID,String PIN) {
+		super(name,addr,ID,PIN); 
+	}
+}

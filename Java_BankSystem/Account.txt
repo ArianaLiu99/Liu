@@ -1,0 +1,20 @@
+public class Account {
+	public String name;
+	public String address;
+	public String dateOfBirth; 
+	public String ID;
+	public String PIN;
+	
+	public int limitation;
+	public int balance;
+	public Boolean credit=false;
+	
+	public Account(){		
+	}
+	public Account(String name,String address,String ID,String PIN){
+		this.name=name;
+		this.address=address;
+		this.ID =ID;
+		this.PIN=PIN;
+	}
+}

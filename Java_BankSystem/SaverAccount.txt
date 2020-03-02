@@ -1,0 +1,6 @@
+ 
+public class SaverAccount extends Account{
+	public SaverAccount(String name,String addr,String ID,String PIN) {
+		super( name, addr, ID, PIN);
+	}
+}

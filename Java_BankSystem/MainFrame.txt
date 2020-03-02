@@ -1,0 +1,143 @@
+import javax.swing.*;
+
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener; 
+
+public class MainFrame {
+	public Bank bank=new Bank();
+	public Account acc=new Account();
+	
+	public static void main(String[] args) {		
+		MainFrame mf=new MainFrame();
+		mf.go();
+	}
+	
+	public void go(){
+		JFrame mainFrame=new JFrame("Bank System");
+				
+//		JButton login = new JButton("login");
+//		mainFrame.getContentPane().add(login);
+//		login.addActionListener(new Listener1());
+		JButton open = new JButton("open Account");
+		mainFrame.getContentPane().add(open);
+		open.addActionListener(new Listener2());
+		JButton deposit = new JButton("Deposit fund");
+		mainFrame.getContentPane().add(deposit);
+		deposit.addActionListener(new Listener7());
+		JButton withdraw = new JButton("Withdraw fund");
+		mainFrame.getContentPane().add(withdraw);
+		withdraw.addActionListener(new Listener8());
+		JButton suspend = new JButton("Suspend fund");
+		mainFrame.getContentPane().add(suspend);
+		suspend.addActionListener(new Listener3());
+		JButton clear = new JButton("Clear fund");
+		mainFrame.getContentPane().add(clear);
+		clear.addActionListener(new Listener5());
+		JButton close = new JButton("Close account");
+		mainFrame.getContentPane().add(close);
+		close.addActionListener(new Listener6());
+					
+		mainFrame.getContentPane().setLayout(new GridLayout(2,3));
+		mainFrame.setSize(600,500);		
+		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		mainFrame.setVisible(true);	
+	}
+	
+	class Listener1 implements ActionListener{
+		public void actionPerformed(ActionEvent e){
+		    String inputID = JOptionPane.showInputDialog("ID number:");			
+		    String inputPIN = JOptionPane.showInputDialog("PIN number:");			
+			Boolean log=bank.login(inputID, inputPIN);
+			if(log==false)
+				JOptionPane.showMessageDialog(null, "Login failed");
+			else
+				JOptionPane.showMessageDialog(null, "Login successfully");						
+		}
+		
+	}
+	class Listener2 implements ActionListener{
+		public void actionPerformed(ActionEvent e) {
+			String inputName=JOptionPane.showInputDialog("Name:");
+			String inputAddress=JOptionPane.showInputDialog("Address:");		
+			String birhday=JOptionPane.showInputDialog("Day of birth:");
+			int age=Integer.parseInt(JOptionPane.showInputDialog("Your age:"));			
+			Object typeChoose=JOptionPane.showInputDialog("Account Type:");			
+			String type=(String) typeChoose;
+			int openA=bank.open(inputName, inputAddress, age, type);
+			if(openA==0){
+				JOptionPane.showMessageDialog(null, "Opened an account");
+				JOptionPane.showMessageDialog(null, "ID: "+bank.ID+"\nPIN: "+bank.PIN);
+			}				
+			else if(openA==2)
+				JOptionPane.showMessageDialog(null, "Your age cannot open a junior account");
+			else if(openA==1)
+				JOptionPane.showMessageDialog(null, "Failed");			
+		}		
+	}
+		
+	class Listener3 implements ActionListener{
+		public void actionPerformed(ActionEvent e){
+			String ID=JOptionPane.showInputDialog("ID number: ");
+			String PIN = JOptionPane.showInputDialog("PIN number:");
+			int sus=bank.suspendAccount(ID);
+			if(sus==1)
+				JOptionPane.showMessageDialog(null, "No such account");
+			else
+			    JOptionPane.showMessageDialog(null, "Suspand");
+		}	
+	}	
+	
+	class Listener5 implements ActionListener{
+		public void actionPerformed(ActionEvent e){
+			String ID=JOptionPane.showInputDialog("ID number: ");
+			String PIN = JOptionPane.showInputDialog("PIN number:");
+			int c=bank.clear(ID);	
+			if(c!=0)
+				JOptionPane.showMessageDialog(null, "No such account account");
+			else
+				JOptionPane.showMessageDialog(null, "Cleared account");
+		}		
+	}
+	 
+	class Listener6 implements ActionListener{
+		public void actionPerformed(ActionEvent e) {
+			String ID = JOptionPane.showInputDialog("ID number: ");		
+		    String PIN = JOptionPane.showInputDialog("PIN number:");	
+			int clo=bank.closeAccount(ID);
+			if(clo!=0)
+				JOptionPane.showMessageDialog(null, "Can't close account");
+			else
+			JOptionPane.showMessageDialog(null, "Closed");			
+		}		
+	}
+	class Listener7 implements ActionListener{
+		public void actionPerformed(ActionEvent e) {
+		    String ID = JOptionPane.showInputDialog("ID number:");			
+		    String PIN = JOptionPane.showInputDialog("PIN number:");	
+			int amount = Integer.parseInt(JOptionPane.showInputDialog("How much to deposit?"));
+			int d=bank.deposit(ID,amount);
+			if (d==0)
+			    JOptionPane.showMessageDialog(null, "Deposit Successfully");
+			else if(d==1)
+				JOptionPane.showMessageDialog(null, "Deposit failed, beyond limitation 50000!");
+			else if(d==2)
+				JOptionPane.showMessageDialog(null, "No such account");
+		}
+	}	
+		
+	class Listener8 implements ActionListener{
+        public void actionPerformed(ActionEvent e) {
+        	String ID = JOptionPane.showInputDialog("ID number:");			
+		    String PIN = JOptionPane.showInputDialog("PIN number:");	
+			int amount =Integer.parseInt(JOptionPane.showInputDialog("How much do you want to withdraw?")) ;
+			int w=bank.withdraw(ID,amount);
+			if (w==0)
+			    JOptionPane.showMessageDialog(null, "Withdraw Successfully");
+			else if(w==1)
+				JOptionPane.showMessageDialog(null, "Withdraw failed, beyond limitation 50000!");
+			else if(w==2)
+				JOptionPane.showMessageDialog(null, "No such account");
+		}		
+	}
+}

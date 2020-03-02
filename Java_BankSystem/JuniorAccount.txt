@@ -1,0 +1,7 @@
+
+public class JuniorAccount extends Account{
+	public JuniorAccount(String name,String addr,String ID,String PIN) {
+		super( name, addr,ID, PIN);
+	} 
+
+}

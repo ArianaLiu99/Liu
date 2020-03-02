@@ -1,0 +1,14 @@
+public class Credit {
+	public int openLimit;
+	public int withdrawLimit;
+	
+	public Boolean checkCredit(String name,String addr){
+		Account acc=new Account();
+		if (acc.balance>=0){
+			return true;
+		}
+		else
+			return false;
+		
+	}
+}

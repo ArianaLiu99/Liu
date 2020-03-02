@@ -1,0 +1,111 @@
+import java.util.ArrayList;
+
+public class Bank {	
+		
+	public ArrayList<Account> Account=new ArrayList<Account>();
+	public Account acc=new Account();
+	public String ID;
+	public String PIN;
+
+	public int open(String name,String addr,int age,String type){
+		Credit cre=new Credit();
+		Account account;
+		ID=""+(int)(10*Math.random())+(int)(10*Math.random())+(int)(10*Math.random());
+		PIN=""+(int)(10*Math.random())+(int)(10*Math.random())+(int)(10*Math.random());
+		Boolean creditCheck=cre.checkCredit(name, addr);
+		
+		if(type.equals("Saver")){
+			account=new SaverAccount(name,addr,ID,PIN);
+			Account.add(account);
+			return 0;
+		}
+		else if(type.equals("Current")){
+			account=new CurrentAccount(name,addr,ID,PIN);
+			Account.add(account);                         
+			return 0;
+		}
+		else if (type.equals("Junior")){
+			if(age<=16)
+			{
+			account=new JuniorAccount(name,addr,ID,PIN);
+			Account.add(account);
+			return 0;}	
+			else{
+				return 2;
+			}
+		}	
+		else return 1;
+	}	
+	
+   public Boolean login(String ID,String PIN){
+	    Account acc=this.corresID(ID);
+		if(this.corresID(ID)==null||!PIN.equals(acc.PIN))
+			return false;
+		else	
+			return true;
+	}
+   
+	public Account corresID(String ID){
+		Account a=null;
+		for(int n=0;n<Account.size();n++){
+			if(Account.get(n).ID.equals(ID)){
+				a=Account.get(n);
+			}
+		}
+		return a;
+	}
+	
+	public int withdraw(String ID, int money){
+		Account acc=this.corresID(ID);
+		if(acc==null)
+			return 2;
+		else if(money<50000){
+			acc.balance-=money;	
+			return 0;
+		}
+		else
+			return 1;			
+	}
+	
+	public int deposit(String ID, int money){
+		Account acc=this.corresID(ID);
+		if(money<50000){
+			acc.balance+=money;	
+			return 0;
+		}
+		else if(acc==null)
+			return 2;
+		else
+			return 1;	
+	}
+   
+	public int suspendAccount(String ID){
+		Account acc=this.corresID(ID);
+		if(acc==null)
+			return 1;
+		else{
+			acc.credit=false;
+		    return 0;
+		}		
+	}
+	
+	public int closeAccount(String ID){
+		Account acc=this.corresID(ID);
+		if(acc==null||acc.balance!=0)
+			return 1;
+		else{
+			Account.remove(acc);
+		    return 0;}		
+	}
+	
+	public int clear(String ID){
+		Account acc=this.corresID(ID);
+		if(acc==null)
+			return 1;
+		else{
+			acc.balance=0;
+		    return 0;
+		}		
+		 
+	}
+}
