@@ -1,0 +1,31 @@
+
+public class StringConverter {
+	public static void main(String[] args){
+		StringConverter con = new StringConverter();
+		con.StringConverter(args);
+	}
+	
+	public void StringConverter(String[] args){
+		String[] newArgs = new String[args.length];
+		for(int i=0;i<args.length;i++){
+			newArgs[i] = args[i].toUpperCase();
+			args[i]=newArgs[i].replaceAll("A", "a");
+			newArgs[i]=args[i].replaceAll("E", "e");
+			args[i]=newArgs[i].replaceAll("I", "i");
+			newArgs[i]=args[i].replaceAll("O", "o");
+			args[i]=newArgs[i].replaceAll("U", "u");
+			newArgs[i]=args[i];
+			for(int j=0;j<args[i].length();j++){
+				if(!Character.isLetter(args[i].charAt(j))){
+					newArgs[i] = args[i].replace(args[i].charAt(j), '*');
+					
+				}
+			}
+		}
+		for(int k=0;k<newArgs.length;k++){
+			System.out.print(newArgs[k]+"*");
+		}
+		
+	}
+
+}
