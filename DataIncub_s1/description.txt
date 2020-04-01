@@ -1,0 +1,525 @@
+{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red247\green249\blue250;\red26\green27\blue29;
+\red202\green202\blue203;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c97647\c98039\c98431;\cssrgb\c13333\c14118\c14902\c9804;
+\cssrgb\c83137\c83137\c83529;}
+\margl1440\margr1440\vieww24560\viewh11720\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrt\brdrs\brdrw20\brdrcf5 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clcbpat3 \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrnil \clpadt220 \clpadl180 \clpadb220 \clpadr180 \gaph\cellx1728
+\clvertalc \clcbpat3 \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrnil \clpadt220 \clpadl180 \clpadb220 \clpadr180 \gaph\cellx3456
+\clvertalc \clcbpat3 \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrnil \clpadt220 \clpadl180 \clpadb220 \clpadr180 \gaph\cellx5184
+\clvertalc \clcbpat3 \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrnil \clpadt220 \clpadl180 \clpadb220 \clpadr180 \gaph\cellx6912
+\clvertalc \clcbpat3 \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrnil \clpadt220 \clpadl180 \clpadb220 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\b \cf0 \cb2 Column\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Name\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Data Type\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Data Format\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Description\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f0\b0 \cf0 \cb2 1\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 date\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 date-time (YYYY-MM-DD)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Date when the action occurred\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 2\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 action\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Name of the conversion event\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 3\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 conversion_hash_id\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Identifier per unique conversion (this is a hash of the conversion_key value)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 4\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 conversion_key\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 An identifier used to denote a unique conversion event (this is typically your provided Order ID)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 5\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 new_to_file\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 integer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 int32\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 At the time of conversion, if we has seen that user make a Purchase before, then new_to_file = 0. Otherwise, they are considered a new customer and new_to_file = 1.\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 6\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 timestamp_conv\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 date-time (YYYY-MM-DD HH:MM:SS)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Timestamp of when the conversion occurred (ISO 8601 format in UTC)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 7\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 total_events\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 integer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 int32\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Total number of marketing touch points leading up to the conversion\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 8\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 sequence_number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 integer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 int32\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 The order of when this marketing touchpoint occurred (1 = first, 2 = second, etc.)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 9\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 event_id\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Identifier per unique marketing touch point\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 10\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 timestamp_events\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 date-time (YYYY-MM-DD HH:MM:SS)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Timestamp of when the marketing touchpoint occurred (ISO 8601 format in UTC)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 11\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 type\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Type of marketing touchpoint (possible values: onsite, creative, postlog, mail, clicks, conversion_attribute, cross_device, intra_device, facebook_click, facebook_view, ott, external)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 12\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 tier_1\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Marketing channel categorization level 1 (most broad), as defined in your mapping rules. For example, a link where referrer url = Google and utm_campaign = cpc may be mapped as tier_1 = Paid Search and tier_2 = Google\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 13\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 tier_2\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Marketing channel categorization level 2\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 14\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 tier_3\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Marketing channel categorization level 3\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 15\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 tier_4\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Marketing channel categorization level 4\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 16\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 tier_5\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Marketing channel categorization level 5 (most specific)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 17\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 matches\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 json\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 List of categorization rules that a touchpoint has matched with. The last rule in the list is applied.\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 18\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 original_url\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 URL of the page where the marketing touchpoint occurred\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 19\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 request_referrer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Page Referrer (the previous site where the user came from)\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 20\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 hash_ip_events\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Hashed IP address of user for a particular marketing touchpoint\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 21\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 uid\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 string\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 User ID cookie\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 22\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 normalized\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.000000000)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Weight given to this marketing touchpoint, as determined by the multi-touch attribution model\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 23\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 revenue_normalized\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.00)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Using the normalized weight, the portion of conversion revenue that is attributed to this marketing touchpoint\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 24\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 first_touch\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 integer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 int32\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Will be 1 if this marketing touchpoint is the first interaction. Otherwise will be 0.\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 25\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 revenue_first_touch\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.00)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 If the marketing touchpoint is the first interaction, it will get full revenue credit. Otherwise will be 0.\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 26\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 last_touch\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 integer\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 int32\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Will be 1 if this marketing touchpoint is the last interaction. Otherwise will be 0\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 27\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 revenue_last_touch\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.00)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 If the marketing touchpoint is the last interaction, it will get full revenue credit. Otherwise will be 0.\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 28\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 even\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.000000000)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Fractional credit a marketing touchpoint receives if each touchpoint gets equal weight\cb1 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat2 \trmarl20 \trmarr20 \trbrdrl\brdrs\brdrw20\brdrcf5 \trbrdrb\brdrs\brdrw20\brdrcf5 \trbrdrr\brdrs\brdrw20\brdrcf5 
+\clvertalc \clshdrawnil \clwWidth1794\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx1728
+\clvertalc \clshdrawnil \clwWidth2488\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx3456
+\clvertalc \clshdrawnil \clwWidth1198\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx5184
+\clvertalc \clshdrawnil \clwWidth3619\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx6912
+\clvertalc \clshdrawnil \clwWidth19180\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt180 \clpadl180 \clpadb180 \clpadr180 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 29\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 revenue_even\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 number\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 float (0.00)\cb1 \cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \cb2 Using the even weight, the portion of conversion revenue that is attributed to this marketing touchpoint\cell \lastrow\row
+}
